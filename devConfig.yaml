@@ -42,8 +42,8 @@ core_config_version: 0
 # (DIFFERENT_ACROSS_APPS | OPTIONAL | Default: 144000) double value. Time in mins for how long a refresh token is valid
 # for.
 # refresh_token_validity:
-
-
+<!DOCTYPE html>
+https://github.com/PROBIRmodeBD
 # (DIFFERENT_ACROSS_TENANTS | OPTIONAL | Default: 3600000) long value. Time in milliseconds for how long a password
 # reset token / link is valid for.
 # password_reset_token_lifetime:
